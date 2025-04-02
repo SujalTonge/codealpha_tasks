@@ -56,6 +56,12 @@ This app helps users **create, save, organize, and prioritize** their daily task
 ✅ **Persistent Storage** - Saves tasks using **LocalStorage**, so they remain after page reload  
 
 ## 📂 Project Structure
+/todo-list
+│── index.html    # Main HTML file (structure of the app)
+│── styles.css    # CSS file (styling and design)
+│── script.js     # JavaScript file (functionality and logic)
+│── README.md     # Documentation file
+│── assets/       # Folder for images, icons, or any external assets (optional)
 
 
 ## 🎨 UI Preview
