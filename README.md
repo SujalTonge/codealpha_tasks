@@ -35,7 +35,7 @@ To run this project locally, follow these steps:
 2. Open the `index.html` file in your browse.
 
 ## Live Demo
-You can check out the live demo [here](#) [(http://127.0.0.1:5500/Age_Calculator_TASK-1/index.html)).
+You can check out the live demo (#) [(http://127.0.0.1:5500/Age_Calculator_TASK-1/index.html)).
 
 ## Contributing
 Feel free to contribute! Fork this repository and submit a pull request with your improvements.
@@ -84,6 +84,6 @@ The app features a **modern UI with smooth animations, task prioritization, and 
    ```sh
    git clone https://github.com/yourusername/todo-list.git
 📌 Live Demo
-🔗 Click here to see the live demo (Add your live link here)](http://127.0.0.1:5500/TO_DO_List_TASK-2/index.html)
+🔗 Click here to see the live demo (http://127.0.0.1:5500/TO_DO_List_TASK-2/index.html)
 
 
